@@ -1,0 +1,11 @@
+注意事项:
+用户需先同意条款并提供有效的API密钥。
+确保在执行文件操作和转换代码时提供正确的路径。
+确保已经安装python，pip，sys，os，subprocess，json，zhipuai，openai。
+编程时禁止使用含“python”和“`”的关键字，否则脚本可能无法正常运行。
+
+声明:
+本程序由中国初一学生开发，如有不足，请积极提交反馈，可以通过以下联系开发者：
+邮箱：dministrator1st1234567890dddaz@outlook.com, a111111111199999@outlook.com, kreantolittle2@outlook.com, zhoukreanto@gmail.com, 3792561886@qq.com, 3874057698@qq.com
+QQ: 3792561886, 3874057698
+个人网站（静态页面，用于发布本人的公告）：https://nitsc.github.io
